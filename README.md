@@ -1,11 +1,11 @@
-<p align="center"><a href="https://t.me/fridayot"><img src="https://telegra.ph/file/22535f8051a58af113586.jpg" width="5000"></a></p> 
-<h1 align="center"><b>FRIDAY-USERBOT 🇮🇳 </b></h1>
+<p align="center"><a href="https://t.me/fsyrl"><img src="https://telegra.ph//file/b49aa34c29b05fe22d9c7.jpg" width="5000"></a></p> 
+<h1 align="center"><b>FERDI-USERBOT 🤔 </b></h1>
 <h4 align="center">A Powerful, Smart And Simple Userbot In Pyrogram.</h4>
 
 
 ## Support 🚑
-<a href="https://t.me/FridaySupportOfficial"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/fridayOT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Nenen_degress"><img src="https://telegra.ph//file/fe48ad968410e4e63f6e3.jpg"></a>
+<a href="https://t.me/BestieVirtual"><img src="https://telegra.ph//file/d4030d8440cdd7ebf8a4e.jpg"></a>
 
 ## Inspiration & Credits
 * [Userge-X](https://github.com/code-rgb/USERGE-X/contributors)
