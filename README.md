@@ -4,7 +4,7 @@
 
 
 ## Support 🚑
-<a href="https://t.me/Nenen_degress"><img src="https://telegra.ph//file/fe48ad968410e4e63f6e3.jpg"></a>
+<a href="https://t.me/Nenen_degrees"><img src="https://telegra.ph//file/fe48ad968410e4e63f6e3.jpg"></a>
 <a href="https://t.me/BestieVirtual"><img src="https://telegra.ph//file/d4030d8440cdd7ebf8a4e.jpg"></a>
 
 ## Inspiration & Credits
